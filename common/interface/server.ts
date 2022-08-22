@@ -4,4 +4,4 @@ export interface User {
     age: string;
 }
 
-export const URL = process.env.URL || "http://localhost:3001";
+export const URL = "https://next-js-test-app-omega.vercel.app";
